@@ -4,7 +4,7 @@
 
 &nbsp;# (Fast Fuzzing with Love and Unexpected Friendliness)#
 
-&nbsp;  ChatGPT on FuFF Fuzzing application, written by ChatGPT
+&nbsp;  ChatGPT on FuFF - Fuzzing application, written by ChatGPT
 
 
 
