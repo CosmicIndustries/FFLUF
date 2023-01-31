@@ -1,5 +1,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  # FFLUF
+
 &nbsp;  ChatGPT on FuFF Fuzzing application, written by ChatGPT
+
 &nbsp;# Fuzz Fast w/ Love Uew Fool - v gpt0.0.1#
 &nbsp;# (Fast Fuzzing with Love and Unexpected Friendliness)#
 
